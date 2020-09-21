@@ -1,0 +1,17 @@
+#include	<resource.h>
+
+#define 		IDB_BLACK               100
+#define 		IDB_WHITE               101
+#define		IDB_BG		102
+#define		IDB_BOARD	103	
+#define		IDC_BACK	104	
+#define		ICO_MAIN	0x1000	
+
+ICO_MAIN	ICON	"Îå×ÓÆå.ico"
+
+IDB_BLACK	BITMAP	"black.bmp"
+IDB_WHITE	BITMAP	"white.bmp"
+IDB_BG		BITMAP	"background.bmp"
+IDB_BOARD	BITMAP	"Board.bmp"
+
+//PUSHBUTTON	"»ÚÆå",IDOK,560,50,50,40
